@@ -1,4 +1,4 @@
-# Hi there, I'm Hrushertz! 👋
+# Hi there, I'm Hrushikesh (Hrushertz)! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects, web development, and data science. I enjoy learning new technologies and applying them to solve real-world problems.
 
