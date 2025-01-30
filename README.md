@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-hrushikeshk.work@gmail.com](mailto:your-hrushikeshk.work@gmail.com)
+- **Email**: [hrushikeshk.work@gmail.com](mailto:your-hrushikeshk.work@gmail.com)
 - **LinkedIn**: [linkedin.com/in/hrushertz](https://www.linkedin.com/in/hrushertz)
 - **Twitter**: [@hrushertz](https://twitter.com/hrushertz)
 
